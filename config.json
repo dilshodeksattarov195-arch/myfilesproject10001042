@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingeerify",
+        "uuid": 4369106,
+        "checksum": "1yy1l"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
